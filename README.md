@@ -1,2 +1,4 @@
-# Portfolio
-Personal project and learning path in computer engineering and AI
+## Structure
+- `projects/` – Personal projects and experiments
+- `university/` – University-related notes and exercises
+- `docs/` – General documentation and notes
