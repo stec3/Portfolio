@@ -18,3 +18,9 @@ python3 main.py
 - Functions
 - Input/output
 - Control flow
+
+## Future improvements
+- Persist tasks to a file
+- Mark tasks as completed
+- Improve input validation
+- Refactor code structure
